@@ -1,2 +1,1 @@
-# better-scroll-mobile
-移动端滚动
+第一次提交v0.0.1
